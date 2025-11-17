@@ -4,7 +4,7 @@
 
 **一个开源的3D打印无线全按键格斗游戏控制器。**
 
-![HSNIBOX](image/HSNIBOX.JPG)
+![HSNIBOX](image/HSNIBOX.jpg)
 
 ---
 
