@@ -87,7 +87,7 @@
 
 ## 组装指南
 
-详细组装指南后续我会以视频的形式上传到视频网站【**bilibili**】,详情请关注B站账号[**末日料理师**](https://example.com](https://space.bilibili.com/14433725)。
+详细组装指南后续我会以视频的形式上传到视频网站【**bilibili**】,详情请关注B站账号![末日料理师](https://space.bilibili.com/14433725)。
 
 ### 3D打印:
 
